@@ -1,4 +1,6 @@
 <?php
+// 一个非常简单的博客
+
 
 /**
  * Laravel - A PHP Framework For Web Artisans
